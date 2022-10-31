@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918319296972",
+    "project_id": "goton-7f1a1",
+    "storage_bucket": "goton-7f1a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918319296972:android:f283d3f9fe74ee0ac36d69",
+        "android_client_info": {
+          "package_name": "com.example.shoppingcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918319296972-n27463acp1l32mannokd4qejofd04c9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5h2IIZt6_2TB_jE3NvHBDVFDxa8IXshw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918319296972-n27463acp1l32mannokd4qejofd04c9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
